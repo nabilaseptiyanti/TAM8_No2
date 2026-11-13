@@ -1,0 +1,11 @@
+{
+    "name": "KelolaKios",
+    "alias": "kelolakios",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\KelolaKios\\Providers\\KelolaKiosServiceProvider"
+    ],
+    "files": []
+}
